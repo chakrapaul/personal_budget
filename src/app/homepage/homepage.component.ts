@@ -14,10 +14,13 @@ export class HomepageComponent implements OnInit {
       {
         data: [] as number[], // Define 'data' as a number array
         backgroundColor: [
-          '#ffcd56',
-          '#ff6384',
-          '#36a2eb',
-          '#fd6b19',
+          '#f25da3',
+          '#3498db',
+          '#e67e22' ,
+          '#4CAF50',
+          '#6c757d',
+          '#ffcc00' ,
+          '#90ee90' ,
         ]
       }
     ],
